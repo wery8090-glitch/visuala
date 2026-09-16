@@ -1,0 +1,501 @@
+Renamed Types:
+
+[Chroma.Loader]<>f__AnonymousType0`2 -> [Chroma.Loader]A.A`2
+{
+	[Chroma.Loader]<>f__AnonymousType0`2::get_email[0]( ) -> A
+	[Chroma.Loader]<>f__AnonymousType0`2::get_password[0]( ) -> a
+
+	[Chroma.Loader]<>f__AnonymousType0`2::.ctor[2]( !0, !1 ) skipped:  special name
+	[Chroma.Loader]<>f__AnonymousType0`2::Equals[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType0`2::GetHashCode[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType0`2::ToString[0]( ) skipped:  external base class or interface
+
+	<email>j__TPar [Chroma.Loader]<email>j__TPar <>f__AnonymousType0`2::<email>i__Field -> A
+	<password>j__TPar [Chroma.Loader]<password>j__TPar <>f__AnonymousType0`2::<password>i__Field -> A
+
+	A [Chroma.Loader]A <>f__AnonymousType0`2::email -> dropped
+	a [Chroma.Loader]a <>f__AnonymousType0`2::password -> dropped
+}
+
+[Chroma.Loader]<>f__AnonymousType1`3 -> [Chroma.Loader]A.a`3
+{
+	[Chroma.Loader]<>f__AnonymousType1`3::get_email[0]( ) -> A
+	[Chroma.Loader]<>f__AnonymousType1`3::get_password[0]( ) -> a
+	[Chroma.Loader]<>f__AnonymousType1`3::get_data[0]( ) -> B
+
+	[Chroma.Loader]<>f__AnonymousType1`3::Equals[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType1`3::GetHashCode[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType1`3::ToString[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType1`3::.ctor[3]( !0, !1, !2 ) skipped:  special name
+
+	<email>j__TPar [Chroma.Loader]<email>j__TPar <>f__AnonymousType1`3::<email>i__Field -> A
+	<password>j__TPar [Chroma.Loader]<password>j__TPar <>f__AnonymousType1`3::<password>i__Field -> A
+	<data>j__TPar [Chroma.Loader]<data>j__TPar <>f__AnonymousType1`3::<data>i__Field -> A
+
+	A [Chroma.Loader]A <>f__AnonymousType1`3::email -> dropped
+	a [Chroma.Loader]a <>f__AnonymousType1`3::password -> dropped
+	B [Chroma.Loader]B <>f__AnonymousType1`3::data -> dropped
+}
+
+[Chroma.Loader]<>f__AnonymousType2`2 -> [Chroma.Loader]A.B`2
+{
+	[Chroma.Loader]<>f__AnonymousType2`2::get_username[0]( ) -> A
+	[Chroma.Loader]<>f__AnonymousType2`2::get_name[0]( ) -> a
+
+	[Chroma.Loader]<>f__AnonymousType2`2::Equals[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType2`2::GetHashCode[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType2`2::ToString[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType2`2::.ctor[2]( !0, !1 ) skipped:  special name
+
+	<username>j__TPar [Chroma.Loader]<username>j__TPar <>f__AnonymousType2`2::<username>i__Field -> A
+	<name>j__TPar [Chroma.Loader]<name>j__TPar <>f__AnonymousType2`2::<name>i__Field -> A
+
+	A [Chroma.Loader]A <>f__AnonymousType2`2::username -> dropped
+	a [Chroma.Loader]a <>f__AnonymousType2`2::name -> dropped
+}
+
+[Chroma.Loader]<>f__AnonymousType3`1 -> [Chroma.Loader]A.b`1
+{
+	[Chroma.Loader]<>f__AnonymousType3`1::get_refresh_token[0]( ) -> A
+
+	[Chroma.Loader]<>f__AnonymousType3`1::Equals[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType3`1::GetHashCode[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType3`1::ToString[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]<>f__AnonymousType3`1::.ctor[1]( !0 ) skipped:  special name
+
+	<refresh_token>j__TPar [Chroma.Loader]<refresh_token>j__TPar <>f__AnonymousType3`1::<refresh_token>i__Field -> A
+
+	A [Chroma.Loader]A <>f__AnonymousType3`1::refresh_token -> dropped
+}
+
+[Chroma.Loader]Chroma.Loader.SessionStore -> [Chroma.Loader]A.C
+{
+	[Chroma.Loader]Chroma.Loader.SessionStore::Save[1]( [System.Runtime]System.String ) -> A
+	[Chroma.Loader]Chroma.Loader.SessionStore::Load[0]( ) -> A
+	[Chroma.Loader]Chroma.Loader.SessionStore::Clear[0]( ) -> a
+
+	[Chroma.Loader]Chroma.Loader.SessionStore::.cctor[0]( ) skipped:  special name
+
+	System.String [Chroma.Loader]System.String Chroma.Loader.SessionStore::Path -> A
+}
+
+[Chroma.Loader]Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10 -> [Chroma.Loader]Chroma.Loader.ChromaApiClient/A
+{
+
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Chroma.Loader.Account> Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>t__builder -> A
+	Chroma.Loader.ChromaApiClient [Chroma.Loader]Chroma.Loader.ChromaApiClient Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>4__this -> A
+	System.Threading.CancellationToken [Chroma.Loader]System.Threading.CancellationToken Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::cancellationToken -> A
+	System.Net.Http.HttpResponseMessage [Chroma.Loader]System.Net.Http.HttpResponseMessage Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<response>5__2 -> A
+	System.String[] [Chroma.Loader]System.String[] Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>7__wrap2 -> A
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>7__wrap3 -> a
+	System.Net.Http.HttpRequestMessage [Chroma.Loader]System.Net.Http.HttpRequestMessage Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<request>5__5 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>u__1 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.String> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.String> Chroma.Loader.ChromaApiClient/<GetAccountAsync>d__10::<>u__2 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.ChromaApiClient/<LoginAsync>d__7 -> [Chroma.Loader]Chroma.Loader.ChromaApiClient/a
+{
+
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Chroma.Loader.Account> Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<>t__builder -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::email -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::password -> a
+	Chroma.Loader.ChromaApiClient [Chroma.Loader]Chroma.Loader.ChromaApiClient Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<>4__this -> A
+	System.Threading.CancellationToken [Chroma.Loader]System.Threading.CancellationToken Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::cancellationToken -> A
+	System.Boolean [Chroma.Loader]System.Boolean Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::remember -> A
+	System.Net.Http.HttpRequestMessage [Chroma.Loader]System.Net.Http.HttpRequestMessage Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<request>5__2 -> A
+	System.Net.Http.HttpResponseMessage [Chroma.Loader]System.Net.Http.HttpResponseMessage Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<response>5__3 -> A
+	System.Text.Json.JsonDocument [Chroma.Loader]System.Text.Json.JsonDocument Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<json>5__4 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<>u__1 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.String> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.String> Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<>u__2 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> Chroma.Loader.ChromaApiClient/<LoginAsync>d__7::<>u__3 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8 -> [Chroma.Loader]Chroma.Loader.ChromaApiClient/B
+{
+
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.String> [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.String> Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<>t__builder -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::username -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::email -> a
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::password -> B
+	Chroma.Loader.ChromaApiClient [Chroma.Loader]Chroma.Loader.ChromaApiClient Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<>4__this -> A
+	System.Threading.CancellationToken [Chroma.Loader]System.Threading.CancellationToken Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::cancellationToken -> A
+	System.Net.Http.HttpRequestMessage [Chroma.Loader]System.Net.Http.HttpRequestMessage Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<request>5__2 -> A
+	System.Net.Http.HttpResponseMessage [Chroma.Loader]System.Net.Http.HttpResponseMessage Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<response>5__3 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<>u__1 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.String> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.String> Chroma.Loader.ChromaApiClient/<RegisterAsync>d__8::<>u__2 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9 -> [Chroma.Loader]Chroma.Loader.ChromaApiClient/b
+{
+
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Chroma.Loader.Account> Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<>t__builder -> A
+	Chroma.Loader.ChromaApiClient [Chroma.Loader]Chroma.Loader.ChromaApiClient Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<>4__this -> A
+	System.Threading.CancellationToken [Chroma.Loader]System.Threading.CancellationToken Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::cancellationToken -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<stored>5__2 -> A
+	System.Net.Http.HttpRequestMessage [Chroma.Loader]System.Net.Http.HttpRequestMessage Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<request>5__3 -> A
+	System.Net.Http.HttpResponseMessage [Chroma.Loader]System.Net.Http.HttpResponseMessage Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<response>5__4 -> A
+	System.Text.Json.JsonDocument [Chroma.Loader]System.Text.Json.JsonDocument Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<json>5__5 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.Http.HttpResponseMessage> Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<>u__1 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.String> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.String> Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<>u__2 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> Chroma.Loader.ChromaApiClient/<RestoreAsync>d__9::<>u__3 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<<-ctor>b__14_0>d -> [Chroma.Loader]Chroma.Loader.MainWindow/A
+{
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<<-ctor>b__14_0>d::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.MainWindow/<<-ctor>b__14_0>d::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<<-ctor>b__14_0>d::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [Chroma.Loader]System.Runtime.CompilerServices.AsyncVoidMethodBuilder Chroma.Loader.MainWindow/<<-ctor>b__14_0>d::<>t__builder -> A
+	Chroma.Loader.MainWindow [Chroma.Loader]Chroma.Loader.MainWindow Chroma.Loader.MainWindow/<<-ctor>b__14_0>d::<>4__this -> A
+	System.Runtime.CompilerServices.TaskAwaiter [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter Chroma.Loader.MainWindow/<<-ctor>b__14_0>d::<>u__1 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<<Build>b__15_0>d -> [Chroma.Loader]Chroma.Loader.MainWindow/a
+{
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<<Build>b__15_0>d::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.MainWindow/<<Build>b__15_0>d::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<<Build>b__15_0>d::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [Chroma.Loader]System.Runtime.CompilerServices.AsyncVoidMethodBuilder Chroma.Loader.MainWindow/<<Build>b__15_0>d::<>t__builder -> A
+	Chroma.Loader.MainWindow [Chroma.Loader]Chroma.Loader.MainWindow Chroma.Loader.MainWindow/<<Build>b__15_0>d::<>4__this -> A
+	System.Runtime.CompilerServices.TaskAwaiter [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter Chroma.Loader.MainWindow/<<Build>b__15_0>d::<>u__1 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<<Build>b__15_1>d -> [Chroma.Loader]Chroma.Loader.MainWindow/B
+{
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<<Build>b__15_1>d::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.MainWindow/<<Build>b__15_1>d::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<<Build>b__15_1>d::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [Chroma.Loader]System.Runtime.CompilerServices.AsyncVoidMethodBuilder Chroma.Loader.MainWindow/<<Build>b__15_1>d::<>t__builder -> A
+	Chroma.Loader.MainWindow [Chroma.Loader]Chroma.Loader.MainWindow Chroma.Loader.MainWindow/<<Build>b__15_1>d::<>4__this -> A
+	System.Runtime.CompilerServices.TaskAwaiter [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter Chroma.Loader.MainWindow/<<Build>b__15_1>d::<>u__1 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<>c__DisplayClass28_0 -> [Chroma.Loader]Chroma.Loader.MainWindow/b
+{
+	[Chroma.Loader]Chroma.Loader.MainWindow/<>c__DisplayClass28_0::<Sound>b__0[0]( ) -> A
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<>c__DisplayClass28_0::.ctor[0]( ) skipped:  special name
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<>c__DisplayClass28_0::frequency -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<LoginAsync>d__23 -> [Chroma.Loader]Chroma.Loader.MainWindow/C
+{
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<LoginAsync>d__23::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.MainWindow/<LoginAsync>d__23::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<LoginAsync>d__23::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder Chroma.Loader.MainWindow/<LoginAsync>d__23::<>t__builder -> A
+	Chroma.Loader.MainWindow [Chroma.Loader]Chroma.Loader.MainWindow Chroma.Loader.MainWindow/<LoginAsync>d__23::<>4__this -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> Chroma.Loader.MainWindow/<LoginAsync>d__23::<>u__1 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<RegisterAsync>d__24 -> [Chroma.Loader]Chroma.Loader.MainWindow/c
+{
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<RegisterAsync>d__24::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.MainWindow/<RegisterAsync>d__24::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<RegisterAsync>d__24::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder Chroma.Loader.MainWindow/<RegisterAsync>d__24::<>t__builder -> A
+	Chroma.Loader.MainWindow [Chroma.Loader]Chroma.Loader.MainWindow Chroma.Loader.MainWindow/<RegisterAsync>d__24::<>4__this -> A
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow/<RegisterAsync>d__24::<>7__wrap1 -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<System.String> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<System.String> Chroma.Loader.MainWindow/<RegisterAsync>d__24::<>u__1 -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow/<RestoreAsync>d__22 -> [Chroma.Loader]Chroma.Loader.MainWindow/D
+{
+
+	[Chroma.Loader]Chroma.Loader.MainWindow/<RestoreAsync>d__22::MoveNext[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.MainWindow/<RestoreAsync>d__22::SetStateMachine[1]( [System.Runtime]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [Chroma.Loader]System.Int32 Chroma.Loader.MainWindow/<RestoreAsync>d__22::<>1__state -> A
+	System.Runtime.CompilerServices.AsyncTaskMethodBuilder [Chroma.Loader]System.Runtime.CompilerServices.AsyncTaskMethodBuilder Chroma.Loader.MainWindow/<RestoreAsync>d__22::<>t__builder -> A
+	Chroma.Loader.MainWindow [Chroma.Loader]Chroma.Loader.MainWindow Chroma.Loader.MainWindow/<RestoreAsync>d__22::<>4__this -> A
+	System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> [Chroma.Loader]System.Runtime.CompilerServices.TaskAwaiter`1<Chroma.Loader.Account> Chroma.Loader.MainWindow/<RestoreAsync>d__22::<>u__1 -> A
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1 -> [Chroma.Loader]A.f/A`1
+{
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IRootObjectProvider.get_RootObject[0]( ) -> A
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IRootObjectProvider.get_IntermediateRootObject[0]( ) -> a
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.XamlIl.Runtime.IAvaloniaXamlIlParentStackProvider.get_Parents[0]( ) -> B
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.get_Container[0]( ) -> b
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.get_Instance[0]( ) -> C
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.get_PropertyDescriptor[0]( ) -> c
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.OnComponentChanging[0]( ) -> D
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.OnComponentChanged[0]( ) -> d
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IProvideValueTarget.get_TargetObject[0]( ) -> E
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IProvideValueTarget.get_TargetProperty[0]( ) -> e
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::PushParent[1]( [System.Runtime]System.Object ) -> A
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::PopParent[0]( ) -> F
+
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::get_BaseUri[0]( ) skipped:  skip by property
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::set_BaseUri[1]( [System.Runtime]System.Uri ) skipped:  skip by property
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::GetService[1]( [System.Runtime]System.Type ) skipped:  external base class or interface
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::.ctor[3]( [System.ComponentModel]System.IServiceProvider, [System.Runtime]System.Object[], [System.Runtime]System.String ) skipped:  special name
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::get_DirectParentsStack[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/Context`1::get_ParentProvider[0]( ) skipped:  external base class or interface
+
+	TTarget [Chroma.Loader]TTarget CompiledAvaloniaXaml.XamlIlContext/Context`1::RootObject -> A
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::IntermediateRoot -> A
+	System.IServiceProvider [Chroma.Loader]System.IServiceProvider CompiledAvaloniaXaml.XamlIlContext/Context`1::_sp -> A
+	System.IServiceProvider [Chroma.Loader]System.IServiceProvider CompiledAvaloniaXaml.XamlIlContext/Context`1::_innerSp -> a
+	System.Object[] [Chroma.Loader]System.Object[] CompiledAvaloniaXaml.XamlIlContext/Context`1::_staticProviders -> A
+	System.Collections.Generic.List`1<System.Object> [Chroma.Loader]System.Collections.Generic.List`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/Context`1::ParentsStack -> A
+	System.Collections.Generic.IEnumerable`1<System.Object> [Chroma.Loader]System.Collections.Generic.IEnumerable`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/Context`1::_parentStackEnumerable -> A
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::ProvideTargetObject -> a
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::ProvideTargetProperty -> B
+	System.Uri [Chroma.Loader]System.Uri CompiledAvaloniaXaml.XamlIlContext/Context`1::_baseUri -> A
+	Avalonia.Controls.INameScope [Chroma.Loader]Avalonia.Controls.INameScope CompiledAvaloniaXaml.XamlIlContext/Context`1::AvaloniaNameScope -> A
+
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IRootObjectProvider.RootObject -> dropped
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IRootObjectProvider.IntermediateRootObject -> dropped
+	System.Collections.Generic.IEnumerable`1<System.Object> [Chroma.Loader]System.Collections.Generic.IEnumerable`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.XamlIl.Runtime.IAvaloniaXamlIlParentStackProvider.Parents -> dropped
+	System.ComponentModel.IContainer [Chroma.Loader]System.ComponentModel.IContainer CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.Container -> dropped
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.Instance -> dropped
+	System.ComponentModel.PropertyDescriptor [Chroma.Loader]System.ComponentModel.PropertyDescriptor CompiledAvaloniaXaml.XamlIlContext/Context`1::System.ComponentModel.ITypeDescriptorContext.PropertyDescriptor -> dropped
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IProvideValueTarget.TargetObject -> dropped
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/Context`1::Avalonia.Markup.Xaml.IProvideValueTarget.TargetProperty -> dropped
+	System.Collections.Generic.IReadOnlyList`1<System.Object> [Chroma.Loader]System.Collections.Generic.IReadOnlyList`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/Context`1::DirectParentsStack -> dropped
+	Avalonia.Markup.Xaml.XamlIl.Runtime.IAvaloniaXamlIlEagerParentStackProvider [Chroma.Loader]Avalonia.Markup.Xaml.XamlIl.Runtime.IAvaloniaXamlIlEagerParentStackProvider CompiledAvaloniaXaml.XamlIlContext/Context`1::ParentProvider -> dropped
+
+	System.Uri [Chroma.Loader]System.Uri CompiledAvaloniaXaml.XamlIlContext/Context`1::BaseUri skipped:  KeepPublicApi option in configuration
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable -> [Chroma.Loader]A.f/a
+{
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable::System.Collections.IEnumerable.GetEnumerator[0]( ) -> A
+
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable::.ctor[2]( [System.Collections]System.Collections.Generic.List`1<[System.Runtime]System.Object>, [System.ComponentModel]System.IServiceProvider ) skipped:  special name
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable::GetEnumerator[0]( ) skipped:  external base class or interface
+
+	System.Collections.Generic.List`1<System.Object> [Chroma.Loader]System.Collections.Generic.List`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable::_parentList -> A
+	System.IServiceProvider [Chroma.Loader]System.IServiceProvider CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable::_parentSP -> A
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml -> [Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/A
+{
+	[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::CreateNamespaceInfo[2]( [System.Runtime]System.String, [System.Runtime]System.String ) -> A
+	[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::CreateNamespaces[0]( ) -> A
+
+	[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::get_XmlNamespaces[0]( ) skipped:  skip by property
+	[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::.ctor[0]( ) skipped:  special name
+	[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::.cctor[0]( ) skipped:  special name
+
+	System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Collections.Generic.IReadOnlyList`1<Avalonia.Markup.Xaml.XamlIl.Runtime.AvaloniaXamlIlXmlNamespaceInfo>> [Chroma.Loader]System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Collections.Generic.IReadOnlyList`1<Avalonia.Markup.Xaml.XamlIl.Runtime.AvaloniaXamlIlXmlNamespaceInfo>> CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::_xmlNamespaces -> A
+	Avalonia.Markup.Xaml.XamlIl.Runtime.IAvaloniaXamlIlXmlNamespaceInfoProvider [Chroma.Loader]Avalonia.Markup.Xaml.XamlIl.Runtime.IAvaloniaXamlIlXmlNamespaceInfoProvider CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::Singleton -> A
+
+
+	System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Collections.Generic.IReadOnlyList`1<Avalonia.Markup.Xaml.XamlIl.Runtime.AvaloniaXamlIlXmlNamespaceInfo>> [Chroma.Loader]System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Collections.Generic.IReadOnlyList`1<Avalonia.Markup.Xaml.XamlIl.Runtime.AvaloniaXamlIlXmlNamespaceInfo>> CompiledAvaloniaXaml.!AvaloniaResources/NamespaceInfo:/App.axaml::XmlNamespaces skipped:  KeepPublicApi option in configuration
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator -> [Chroma.Loader]A.f/a/A
+{
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::System.Collections.Generic.IEnumerator`1<System.Object>.Reset[0]( ) -> A
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::System.IDisposable.Dispose[0]( ) -> a
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::System.Collections.Generic.IEnumerator`1<System.Object>.MoveNext[0]( ) -> B
+
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::get_Current[0]( ) skipped:  skip by property
+	[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::.ctor[2]( [System.Collections]System.Collections.Generic.List`1<[System.Runtime]System.Object>, [System.ComponentModel]System.IServiceProvider ) skipped:  special name
+
+	System.Int32 [Chroma.Loader]System.Int32 CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_state -> A
+	System.Collections.Generic.List`1<System.Object> [Chroma.Loader]System.Collections.Generic.List`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_parentList -> A
+	System.IServiceProvider [Chroma.Loader]System.IServiceProvider CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_parentSP -> A
+	System.Collections.Generic.List`1<System.Object> [Chroma.Loader]System.Collections.Generic.List`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_list -> a
+	System.Int32 [Chroma.Loader]System.Int32 CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_listIndex -> a
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_current -> A
+	System.Collections.Generic.IEnumerator`1<System.Object> [Chroma.Loader]System.Collections.Generic.IEnumerator`1<System.Object> CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::_parentEnumerator -> A
+
+
+	System.Object [Chroma.Loader]System.Object CompiledAvaloniaXaml.XamlIlContext/ParentStackEnumerable/Enumerator::Current skipped:  KeepPublicApi option in configuration
+}
+
+[Chroma.Loader]Chroma.Loader.LoaderBrushExtensions -> [Chroma.Loader]A.c
+{
+	[Chroma.Loader]Chroma.Loader.LoaderBrushExtensions::Brush[2]( [System.Runtime]System.Object, [System.Runtime]System.String ) -> A
+}
+
+[Chroma.Loader]Chroma.Loader.Program -> [Chroma.Loader]A.D
+{
+	[Chroma.Loader]Chroma.Loader.Program::Main[1]( [System.Runtime]System.String[] ) -> A
+	[Chroma.Loader]Chroma.Loader.Program::BuildAvaloniaApp[0]( ) -> A
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlIlHelpers -> [Chroma.Loader]A.d
+{
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.!IndexerAccessorFactoryClosure -> [Chroma.Loader]A.E
+{
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlIlTrampolines -> [Chroma.Loader]A.e
+{
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlDynamicSetters -> [Chroma.Loader]A.F
+{
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.XamlIlContext -> [Chroma.Loader]A.f
+{
+}
+
+Skipped Types:
+
+[Chroma.Loader]Chroma.Loader.Account skipped:  KeepPublicApi option in configuration
+{
+	[Chroma.Loader]Chroma.Loader.Account::get_EqualityContract[0]( ) -> A
+	[Chroma.Loader]Chroma.Loader.Account::PrintMembers[1]( [System.Runtime]System.Text.StringBuilder ) -> A
+
+	[Chroma.Loader]Chroma.Loader.Account::get_Username[0]( ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::set_Username[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::get_Email[0]( ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::set_Email[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::get_Plan[0]( ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::set_Plan[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::get_Status[0]( ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::set_Status[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::get_EndsAt[0]( ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::set_EndsAt[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[Chroma.Loader]Chroma.Loader.Account::Equals[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.Account::Equals[1]( [Chroma.Loader]Chroma.Loader.Account ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.Account::GetHashCode[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.Account::ToString[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.Account::.ctor[5]( [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.String ) skipped:  special name
+	[Chroma.Loader]Chroma.Loader.Account::op_Inequality[2]( [Chroma.Loader]Chroma.Loader.Account, [Chroma.Loader]Chroma.Loader.Account ) skipped:  special name
+	[Chroma.Loader]Chroma.Loader.Account::op_Equality[2]( [Chroma.Loader]Chroma.Loader.Account, [Chroma.Loader]Chroma.Loader.Account ) skipped:  special name
+	[Chroma.Loader]Chroma.Loader.Account::<Clone>$[0]( ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]Chroma.Loader.Account::.ctor[1]( [Chroma.Loader]Chroma.Loader.Account ) skipped:  special name
+	[Chroma.Loader]Chroma.Loader.Account::Deconstruct[5]( [System.Runtime]System.String&, [System.Runtime]System.String&, [System.Runtime]System.String&, [System.Runtime]System.String&, [System.Runtime]System.String& ) skipped:  KeepPublicApi option in configuration
+
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::<Username>k__BackingField -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::<Email>k__BackingField -> a
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::<Plan>k__BackingField -> B
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::<Status>k__BackingField -> b
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::<EndsAt>k__BackingField -> C
+
+	System.Type [Chroma.Loader]System.Type Chroma.Loader.Account::EqualityContract -> A
+
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::Username skipped:  KeepPublicApi option in configuration
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::Email skipped:  KeepPublicApi option in configuration
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::Plan skipped:  KeepPublicApi option in configuration
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::Status skipped:  KeepPublicApi option in configuration
+	System.String [Chroma.Loader]System.String Chroma.Loader.Account::EndsAt skipped:  KeepPublicApi option in configuration
+}
+
+[Chroma.Loader]Chroma.Loader.ChromaApiClient skipped:  KeepPublicApi option in configuration
+{
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::MapError[1]( [System.Runtime]System.String ) -> A
+
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::LoginAsync[4]( [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.Boolean, [System.Runtime]System.Threading.CancellationToken ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::RegisterAsync[4]( [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.Threading.CancellationToken ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::RestoreAsync[1]( [System.Runtime]System.Threading.CancellationToken ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::GetAccountAsync[1]( [System.Runtime]System.Threading.CancellationToken ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::Logout[0]( ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::.ctor[0]( ) skipped:  special name
+	[Chroma.Loader]Chroma.Loader.ChromaApiClient::.cctor[0]( ) skipped:  special name
+
+	System.String[] [Chroma.Loader]System.String[] Chroma.Loader.ChromaApiClient::WebsiteEndpoints -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient::SupabaseUrl -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient::PublishableKey -> a
+	System.Net.Http.HttpClient [Chroma.Loader]System.Net.Http.HttpClient Chroma.Loader.ChromaApiClient::http -> A
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient::accessToken -> B
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient::refreshToken -> b
+
+	System.String [Chroma.Loader]System.String Chroma.Loader.ChromaApiClient::WebsiteUrl skipped:  KeepPublicApi option in configuration
+}
+
+[Chroma.Loader]Chroma.Loader.App skipped:  KeepPublicApi option in configuration
+{
+	[Chroma.Loader]Chroma.Loader.App::!XamlIlPopulate[2]( [System.ComponentModel]System.IServiceProvider, [Chroma.Loader]Chroma.Loader.App ) -> A
+	[Chroma.Loader]Chroma.Loader.App::!XamlIlPopulateTrampoline[1]( [Chroma.Loader]Chroma.Loader.App ) -> A
+
+	[Chroma.Loader]Chroma.Loader.App::Initialize[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.App::OnFrameworkInitializationCompleted[0]( ) skipped:  external base class or interface
+	[Chroma.Loader]Chroma.Loader.App::.ctor[0]( ) skipped:  special name
+
+	System.Action`1<System.Object> [Chroma.Loader]System.Action`1<System.Object> Chroma.Loader.App::!XamlIlPopulateOverride -> A
+}
+
+[Chroma.Loader]Chroma.Loader.MainWindow skipped:  KeepPublicApi option in configuration
+{
+	[Chroma.Loader]Chroma.Loader.MainWindow::Build[0]( ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::BuildDashboard[1]( [Avalonia.Controls]Avalonia.Controls.Grid ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::AddTile[4]( [Avalonia.Controls]Avalonia.Controls.Grid, [System.Runtime]System.String, [Avalonia.Controls]Avalonia.Controls.TextBlock, [System.Runtime]System.Int32 ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::AddVisualTile[5]( [Avalonia.Controls]Avalonia.Controls.Grid, [System.Runtime]System.String, [System.Runtime]System.String, [System.Runtime]System.Int32, [System.Runtime]System.Int32 ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::Label[1]( [System.Runtime]System.String ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::Pill[1]( [System.Runtime]System.String ) -> a
+	[Chroma.Loader]Chroma.Loader.MainWindow::Brush[1]( [System.Runtime]System.String ) -> B
+	[Chroma.Loader]Chroma.Loader.MainWindow::RestoreAsync[0]( ) -> a
+	[Chroma.Loader]Chroma.Loader.MainWindow::LoginAsync[0]( ) -> B
+	[Chroma.Loader]Chroma.Loader.MainWindow::RegisterAsync[0]( ) -> b
+	[Chroma.Loader]Chroma.Loader.MainWindow::Show[1]( [Chroma.Loader]Chroma.Loader.Account ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::Logout[0]( ) -> C
+	[Chroma.Loader]Chroma.Loader.MainWindow::Install[0]( ) -> c
+	[Chroma.Loader]Chroma.Loader.MainWindow::Sound[1]( [System.Runtime]System.Int32 ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::<.ctor>b__14_0[2]( [System.Runtime]System.Object, [System.Runtime]System.EventArgs ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::<Build>b__15_0[2]( [System.Runtime]System.Object, [Avalonia.Base]Avalonia.Interactivity.RoutedEventArgs ) -> A
+	[Chroma.Loader]Chroma.Loader.MainWindow::<Build>b__15_1[2]( [System.Runtime]System.Object, [Avalonia.Base]Avalonia.Interactivity.RoutedEventArgs ) -> a
+	[Chroma.Loader]Chroma.Loader.MainWindow::<BuildDashboard>b__16_0[2]( [System.Runtime]System.Object, [Avalonia.Base]Avalonia.Interactivity.RoutedEventArgs ) -> B
+	[Chroma.Loader]Chroma.Loader.MainWindow::<BuildDashboard>b__16_1[2]( [System.Runtime]System.Object, [Avalonia.Base]Avalonia.Interactivity.RoutedEventArgs ) -> b
+
+	[Chroma.Loader]Chroma.Loader.MainWindow::.ctor[0]( ) skipped:  special name
+
+	Chroma.Loader.ChromaApiClient [Chroma.Loader]Chroma.Loader.ChromaApiClient Chroma.Loader.MainWindow::api -> A
+	Avalonia.Controls.StackPanel [Chroma.Loader]Avalonia.Controls.StackPanel Chroma.Loader.MainWindow::login -> A
+	Avalonia.Controls.StackPanel [Chroma.Loader]Avalonia.Controls.StackPanel Chroma.Loader.MainWindow::dashboard -> a
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::status -> A
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::error -> a
+	Avalonia.Controls.TextBox [Chroma.Loader]Avalonia.Controls.TextBox Chroma.Loader.MainWindow::username -> A
+	Avalonia.Controls.TextBox [Chroma.Loader]Avalonia.Controls.TextBox Chroma.Loader.MainWindow::email -> a
+	Avalonia.Controls.TextBox [Chroma.Loader]Avalonia.Controls.TextBox Chroma.Loader.MainWindow::password -> B
+	Avalonia.Controls.CheckBox [Chroma.Loader]Avalonia.Controls.CheckBox Chroma.Loader.MainWindow::remember -> A
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::plan -> B
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::subStatus -> b
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::expires -> C
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::welcome -> c
+	Avalonia.Controls.TextBlock [Chroma.Loader]Avalonia.Controls.TextBlock Chroma.Loader.MainWindow::visualMessage -> D
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.!XamlLoader skipped:  KeepPublicApi option in configuration
+{
+
+	[Chroma.Loader]CompiledAvaloniaXaml.!XamlLoader::TryLoad[2]( [System.ComponentModel]System.IServiceProvider, [System.Runtime]System.String ) skipped:  KeepPublicApi option in configuration
+	[Chroma.Loader]CompiledAvaloniaXaml.!XamlLoader::TryLoad[1]( [System.Runtime]System.String ) skipped:  KeepPublicApi option in configuration
+}
+
+[Chroma.Loader]CompiledAvaloniaXaml.!AvaloniaResources skipped:  KeepPublicApi option in configuration
+{
+}
+
+Renamed Resources:
+
+
+Skipped Resources:
+
+!AvaloniaResources (no clear new name)
